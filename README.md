@@ -1,2 +1,3 @@
-# Godot-Minigame-4
-
+# Godot Minigame 4
+## Devlog
+Write your Devlog here.
